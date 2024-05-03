@@ -15,11 +15,11 @@ python -m venv venv
 ```
 установка зависимостей
 ```bash
-	pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 запуск
 ```bash
-	py app.py
+py app.py
 ```
 
 
